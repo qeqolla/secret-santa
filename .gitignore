@@ -1,0 +1,32 @@
+/node_modules/
+/dist/
+
+# Project exclude paths
+/src/config/database.config.js
+/src/config/database.config.js.map
+/src/interfaces/player.interface.js
+/src/interfaces/player.interface.js.map
+/src/middleware/index.js
+/src/middleware/index.js.map
+/src/secret_santa/controller/player_controller/index.js
+/src/secret_santa/controller/player_controller/index.js.map
+/src/secret_santa/controller/santa_controller/index.js
+/src/secret_santa/controller/santa_controller/index.js.map
+/src/secret_santa/models/player/index.js
+/src/secret_santa/models/player/index.js.map
+/src/secret_santa/models/secret_santa/index.js
+/src/secret_santa/models/secret_santa/index.js.map
+/src/secret_santa/route/index.js
+/src/secret_santa/route/index.js.map
+/src/secret_santa/validator/index.js
+/src/secret_santa/validator/index.js.map
+/src/app.js
+/src/app.js.map
+/src/server.js
+/src/server.js.map
+
+# Project exclude paths
+/src/secret_santa/models/player/player.interface.js
+/src/secret_santa/models/player/player.interface.js.map
+/src/secret_santa/models/secret_santa/secret_santa.interface.js
+/src/secret_santa/models/secret_santa/secret_santa.interface.js.map
